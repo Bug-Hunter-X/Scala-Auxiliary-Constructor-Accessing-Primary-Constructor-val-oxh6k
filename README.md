@@ -1,0 +1,2 @@
+# Scala Auxiliary Constructor Issue
+This example demonstrates a common error when using auxiliary constructors in Scala to access the primary constructor's `val` directly. The solution shows the correct approach using the `this()` call.
